@@ -1,0 +1,5 @@
+﻿  Source.cpp
+c:\users\marta\source\repos\lab4\lab4\source.cpp(439): warning C4018: '>': signed/unsigned mismatch
+c:\users\marta\source\repos\lab4\lab4\source.cpp(447): warning C4018: '>': signed/unsigned mismatch
+c:\users\marta\source\repos\lab4\lab4\source.cpp(460): warning C4018: '>': signed/unsigned mismatch
+  Lab4.vcxproj -> C:\Users\marta\source\repos\Lab4\Debug\Lab4.exe
